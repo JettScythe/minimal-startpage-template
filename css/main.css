@@ -29,6 +29,10 @@ html {
 
 body {
     align-items: center;
+    background-image: url(https://images.unsplash.com/photo-1531278520962-fcf47a2faea2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2089&q=80);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
     background-color: #1f1f1f;
     color: #ddd;
     display: flex;
@@ -198,6 +202,9 @@ main {
     #links-container {
         grid-template-columns: 1fr 1fr 1fr 1fr;
         grid-template-rows: 1fr;
+    }
+    body {
+        background-image: url(https://images.unsplash.com/photo-1531279550271-23c2a77a765c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=80);
     }
 
 }
