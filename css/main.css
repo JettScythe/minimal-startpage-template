@@ -63,6 +63,7 @@ main {
 }
 
 .link-section-title {
+    text-align: center;
     font-size: 20px;
     margin: 0;
     font-weight: normal;
