@@ -120,6 +120,7 @@ main {
 /* IDs */
 #clock {
     font-family: Roboto;
+    -webkit-text-stroke: 2px black;
 }
 
 #top-div {
