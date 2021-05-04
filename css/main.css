@@ -85,11 +85,12 @@ main {
 }
 
 .link-list-item:hover {
+
     background-color: #888;
 }
 
 .link:hover {
-    color: #48b1ff;
+    color: aqua;
 }
 
 .link {
